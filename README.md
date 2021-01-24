@@ -1,1 +1,1 @@
-# Boston-Housing-EDA
+# Machine-Learning-and-the-Titanic
